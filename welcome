@@ -1,6 +1,5 @@
 public class welcome{
 public static void main (String args[]){
-system.out.println("Welcome to the repository!");
-system.out.println("This repository is for individual assignments");
+system.out.println("Welcome to the repository!")
 }
 }
